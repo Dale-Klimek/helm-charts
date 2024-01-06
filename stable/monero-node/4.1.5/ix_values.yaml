@@ -5,7 +5,7 @@ image:
 persistence:
   blockchainstorage:
     enabled: true
-    mountPath: /home/monero/.bitmonero
+    mountPath: /root/.bitmonero
   containerdir1:
     enabled: true
     mountPath: /usr/local
